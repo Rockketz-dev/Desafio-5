@@ -1,5 +1,5 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /* Hero Section */
@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos {
+  background-color: #5c00ff;
+}
+
 /* Contacto */
 
 #Contacto form label {
@@ -32,8 +36,19 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
+}
 
+footer {
+  background-color: #5c00ff;
+}
+
+section h2 {
+  color: #5c00ff;
+}
+
+section h5 {
+  color: #5c00ff;
 }
